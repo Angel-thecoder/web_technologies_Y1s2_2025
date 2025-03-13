@@ -1,1 +1,4 @@
-# web_technologies_Y1s2_2025
+## WEB DEVELOPMENT 2025
+
+## Week 1
+Intro to HTML
